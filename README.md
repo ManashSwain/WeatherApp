@@ -8,7 +8,7 @@ Features
     Search Functionality: Users can search for the weather of any location by entering the city name.
     Responsive Design: The app is designed to be responsive and works well on desktop and mobile devices.
 
-    The project is live at : https://myweatherapp-mu.vercel.app/
+    The project is live at : https://mysimpleweatherapp.vercel.app/
 
 Technologies Used
 
